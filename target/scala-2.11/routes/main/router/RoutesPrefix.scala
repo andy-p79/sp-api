@@ -1,6 +1,6 @@
 // @GENERATOR:play-routes-compiler
 // @SOURCE:/home/andy/DEV/sp-api/conf/routes
-// @DATE:Mon Apr 06 12:54:28 BST 2020
+// @DATE:Mon Apr 06 13:27:57 BST 2020
 
 
 package router {
